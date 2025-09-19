@@ -1,4 +1,4 @@
-# Dynamodb-CRUD-appplication-using-aws-SDK
+
 # DynamoDB CRUD App using AWS SDK Python
 
 ## Description
